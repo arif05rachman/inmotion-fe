@@ -4,7 +4,6 @@ import "./panelProject.css";
 import { getProjects, getProject } from "../store/actions/project";
 import { getTodos } from "../store/actions/todo";
 import { useDispatch, useSelector } from "react-redux";
-import randomColor from "../helpers/randomColor";
 import randomRgb from "../helpers/randomRgb";
 const PanelPeoject = () => {
   const dispatch = useDispatch();
