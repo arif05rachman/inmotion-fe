@@ -1,0 +1,10 @@
+.bg-todo{
+    background-color: #ffffff !important;
+    color: black;
+    border: none !important;
+}
+.bg-search{
+    background-color: #3C3F54 !important;
+    color: white;
+    border: none !important;
+}
